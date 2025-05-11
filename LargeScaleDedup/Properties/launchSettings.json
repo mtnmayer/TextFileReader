@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LargeScaleDedup": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mtnma\\Downloads\\input_50GB\\input_50GB.txt",
+      "nativeDebugging": false
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
